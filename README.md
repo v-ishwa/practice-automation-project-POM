@@ -11,7 +11,7 @@ The test cases are based on flows from [Practice Test Automation](https://practi
 - Page Object Model (POM) structure
 - Assertions using `expect`
 - Multi-tab check using `context`
-- 
+
 ---
 
 ## 📁 Project Structure
@@ -30,6 +30,17 @@ The test cases are based on flows from [Practice Test Automation](https://practi
 
 ---
 
+🛠 Tech Stack
+Playwright (JavaScript)
+
+Node.js
+
+POM structure
+
+Git & GitHub
+
+---
+
 ## 🚀 How to Run
 ```bash
 
@@ -45,14 +56,6 @@ npx playwright test --trace on
 # 4. Open Playwright HTML report
 npx playwright show-report
 
----
 
-🛠 Tech Stack
-Playwright (JavaScript)
 
-Node.js
-
-POM structure
-
-Git & GitHub
 
